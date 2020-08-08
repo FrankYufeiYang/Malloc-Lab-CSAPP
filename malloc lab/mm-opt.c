@@ -1,11 +1,5 @@
 /*
- ******************************************************************************
- *                               mm-baseline.c                                *
- *           64-bit struct-based implicit free list memory allocator          *
- *                  15-213: Introduction to Computer Systems                  *
- *                                                                            *
- *  ************************************************************************  *
- *                               DOCUMENTATION                                *
+ *                             
  *          1. implict free list
  *          2. first fit / best fit
  *          3. immediate coalescing / delay coalescing
